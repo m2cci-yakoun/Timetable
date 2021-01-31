@@ -73,9 +73,6 @@ b3.grid(row=4,column=4)
 
 
 
-boudara=Label(window,text='Created by : EV1 BOUDARA')
-boudara.grid(row=12,column=4)
-
 
 
 
