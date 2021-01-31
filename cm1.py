@@ -79,8 +79,6 @@ b3.grid(row=4,column=4)
 
 
 
-bou=Label(window,text='PHM RAIS BARGACH')
-bou.grid(row=12,column=4)
 
 
 
